@@ -1,0 +1,99 @@
+[
+    {
+      "recipeImage": "https://i.ibb.co/tMSHBg9/istockphoto-1428412216-612x612.jpg",
+      "recipeId": 101,
+      "recipeName": "Chicken Stir Fry",
+      "shortDescription": "A quick and healthy chicken stir fry with soy sauce and vegetables.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom",
+        "150 g bell peppers",
+        "2 cloves garlic"
+      ],
+      "preparingTime": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipeImage": "https://i.ibb.co/BfwDmjk/portrait-man-cooking-kitchen-with-laptop-484921-2261.jpg",
+      "recipeId": 102,
+      "recipeName": "Spaghetti Bolognese",
+      "shortDescription": "Classic Italian spaghetti with a rich bolognese sauce.",
+      "ingredients": [
+        "300 g ground beef",
+        "400 g spaghetti",
+        "200 g tomato sauce",
+        "100 g onions",
+        "50 g Parmesan cheese",
+        "2 cloves garlic"
+      ],
+      "preparingTime": "45 min",
+      "calories": "550 calories"
+    },
+    {
+      "recipeImage": "https://i.ibb.co/rGdfHxn/premium-photo-1661778091956-15dbe6e47442.jpg",
+      "recipeId": 103,
+      "recipeName": "Vegan Quinoa Salad",
+      "shortDescription": "A healthy vegan salad with quinoa, avocado, and fresh veggies.",
+      "ingredients": [
+        "200 g quinoa",
+        "1 avocado",
+        "100 g cherry tomatoes",
+        "50 g cucumber",
+        "50 g spinach",
+        "30 ml olive oil"
+      ],
+      "preparingTime": "25 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipeImage": "https://i.ibb.co/Qb6cvgh/pngtree-beautiful-chef-woman-wearing-uniform-and-cap-standing-arms-crossed-image-15710220.jpg",
+      "recipeId": 104,
+      "recipeName": "Grilled Salmon",
+      "shortDescription": "Simple grilled salmon served with lemon and herbs.",
+      "ingredients": [
+        "2 salmon fillets",
+        "1 lemon",
+        "20 g parsley",
+        "10 ml olive oil",
+        "2 cloves garlic",
+        "5 g sea salt"
+      ],
+      "preparingTime": "20 min",
+      "calories": "400 calories"
+    },
+    {
+      "recipeImage": "https://i.ibb.co/C75vy8H/smiling-male-chef-garnishing-food-kitchen-13339-211598.jpg",
+      "recipeId": 105,
+      "recipeName": "Vegetable Curry",
+      "shortDescription": "A spicy vegetable curry with coconut milk and Indian spices.",
+      "ingredients": [
+        "300 g mixed vegetables",
+        "200 ml coconut milk",
+        "50 g curry powder",
+        "100 g onions",
+        "10 g ginger",
+        "2 cloves garlic"
+      ],
+      "preparingTime": "40 min",
+      "calories": "300 calories"
+    },
+    {
+      "recipeImage": "https://i.ibb.co/3sF51L4/front-view-man-cooking-kitchen-23-2149631702.jpg",
+      "recipeId": 106,
+      "recipeName": "Chocolate Cake",
+      "shortDescription": "Rich and moist chocolate cake with a smooth chocolate ganache.",
+      "ingredients": [
+        "300 g flour",
+        "100 g cocoa powder",
+        "200 g sugar",
+        "3 eggs",
+        "100 ml milk",
+        "100 g butter"
+      ],
+      "preparingTime": "60 min",
+      "calories": "600 calories"
+    }
+  ]
+  
